@@ -1,6 +1,6 @@
 # lita-work-faster
 
-TODO: Add a description of the plugin.
+Responds to the command "Hey" with the response "@all, work faster"
 
 ## Installation
 
@@ -13,11 +13,8 @@ gem "lita-work-faster"
 
 ## Configuration
 
-TODO: Describe any configuration attributes the plugin exposes.
+None.
 
-## Usage
-
-TODO: Describe the plugin's features and how to use them.
 
 ## License
 
