@@ -1,10 +1,10 @@
 Gem::Specification.new do |spec|
   spec.name          = "lita-work-faster"
-  spec.version       = "0.0.1"
+  spec.version       = "0.1.0"
   spec.authors       = ["Dan Lopez"]
   spec.email         = ["dan@apprennet.com"]
   spec.description   = "Work Faster"
-  spec.summary       = "Work Faster"
+  spec.summary       = "A gem that helps you work faster (generates morning standup order, etc.) "
   spec.homepage      = "https://github.com/danlopez191/lita-work-faster"
   spec.license       = "MIT"
   spec.metadata      = { "lita_plugin_type" => "handler" }
